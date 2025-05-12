@@ -18,8 +18,8 @@ If you are a beginner and looking to improve Python programming or an experience
 
 | Topics |PDF | 
 |:-----------:|:-------------:|
-| 1) Introduction to Python  | <a href="https://youtu.be/2Q8KMrzQRMs?si=VGBqmGbpveOdidhC"> <img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" alt="start practicing"  height="40" width="150" /> </a> <br>    | 
-| 1) Memory Management in Python  | <a href="https://youtu.be/2Q8KMrzQRMs?si=VGBqmGbpveOdidhC"> <img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" alt="start practicing"  height="40" width="150" /> </a> <br>    | 
+| 1) Introduction to Python  | <a href="https://github.com/arfin-parween/Python/blob/main/Python%20PDF/1.%20Introduction%20To%20Python.pdf"> <img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" alt="start practicing"  height="40" width="150" /> </a> <br>    | 
+| 2) Memory Management in Python  | <a href="https://youtu.be/2Q8KMrzQRMs?si=VGBqmGbpveOdidhC"> <img align="center" src="https://www.pngall.com/wp-content/uploads/2016/05/Click-Here-PNG-HD.png" alt="start practicing"  height="40" width="150" /> </a> <br>    | 
 
 
 
