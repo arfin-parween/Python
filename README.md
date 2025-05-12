@@ -1,4 +1,4 @@
-### Python &nbsp; <a href="https://leetcode.com/studyplan/top-sql-50/" target="blank"><img align="center" src="https://iconspng.com/_next/image?url=https%3A%2F%2Ficonspng.com%2Fimages%2Fclick-here-red-button.jpg&w=1080&q=75" alt="Click Here" height="30" width="100" /></a>
+### Python 
 
 # Hey There!
 
